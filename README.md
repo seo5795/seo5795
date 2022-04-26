@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2>My tech stack👨‍💻</h2>
-<hr>
+<hr/>
 ![Java](https://img.shields.io/badge/-JAVA-0069af?style=for-the-badge&logo=java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6aad3d?style=for-the-badge&logo=Spring&logoColor=ffffff)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6aad3d?style=for-the-badge&logo=SpringBoot&logoColor=ffffff)
