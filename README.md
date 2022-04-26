@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<hr>
+<br>
 <!--
 **seo5795/seo5795** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>My tech stack👨‍💻</h2>
+<hr>
 ![Java](https://img.shields.io/badge/-JAVA-0069af?style=for-the-badge&logo=java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6aad3d?style=for-the-badge&logo=Spring&logoColor=ffffff)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6aad3d?style=for-the-badge&logo=SpringBoot&logoColor=ffffff)
